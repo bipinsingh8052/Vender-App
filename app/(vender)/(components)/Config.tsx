@@ -1,0 +1,1 @@
+export const BASE_URL='https://saas-nextjs-int.vercel.app/api'
